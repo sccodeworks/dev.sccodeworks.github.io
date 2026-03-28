@@ -1,0 +1,59 @@
+{
+  "search": {
+    "placeholder": "Search actions"
+  },
+  "items": [
+    {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "Delete"
+    },
+    {
+      "label": "MB Comments",
+      "icon": "assets/svg/icons/Items/comments.svg",
+      "action": "MbComments"
+    },
+    {
+      "label": "Load Details",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "LoadDetail"
+    },
+     {
+      "label": "Load Manifest",
+      "icon": "assets/svg/icons/Loads/Manifest.svg",
+      "action": "LoadManifest"
+    },
+    {
+      "label": "Drop",
+      "icon": "assets/svg/icons/Loads/drop.svg",
+      "action": "Drop"
+    },
+    {
+      "label": "Move Queue",
+      "icon": "assets/svg/icons/orders/SendOrderToMove.svg",
+      "action": "MoveQueue"
+    },
+     {
+      "label": "Packsheet Only",
+      "icon": "assets/svg/icons/orders/SendOrderToMove.svg",
+      "action": "PacksheetOnly"
+    },
+    {
+      "label": "Vics Master Bl",
+      "icon": "assets/svg/icons/orders/BillOfLoadingSynopsis.svg",
+      "action": "VicsMasterBl"
+    }
+    ,
+    {
+      "label": "Assign",
+      "icon": "assets/svg/icons/Loads/Assign.svg",
+      "action": "Assign"
+    },
+    {
+      "label": "Load MB On DS",
+      "icon": "assets/svg/icons/orders/DockSchedule.svg",
+      "action": "LoadMBonDS"
+    }
+    
+  ]
+}
