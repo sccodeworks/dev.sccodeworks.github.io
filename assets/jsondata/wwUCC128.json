@@ -3,12 +3,11 @@
     "placeholder": "Search Menu Options"
   },
   "items": [
-    {
-      "label": "Consignee Items",
-      "icon": "assets/svg/dropdownicons/edit.svg",
+{
+      "label": "Change Consignee Item",
+      "icon": "assets/svg/icons/Loads/Manifest.svg",
       "action": "ConsigneeItems"
     },
-
     {
       "label": "Print Ucc128",
       "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",

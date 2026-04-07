@@ -313,11 +313,7 @@
       "icon": "assets/svg/icons/orders/CompareSerials.svg",
       "action": "CompareSris"
     },
-    {
-      "label": "Depick Serial",
-      "icon": "assets/svg/icons/orders/DepickSerial.svg",
-      "action": "DepickSerial"
-    },
+   
     {
       "label": "Delete From MoveQ",
       "icon": "assets/svg/icons/orders/DeleteFromMoveQ.svg",
@@ -419,7 +415,7 @@
       "action": "AutoShipConfirm"
     },
     {
-      "label": "Create Return",
+      "label": "Create Return/Newst",
       "icon": "assets/svg/icons/orders/CreateReturn.svg",
       "action": "CreateReceipt"
     },
@@ -427,6 +423,11 @@
       "label": "Ship Confirm Inquiry",
       "icon": "assets/svg/icons/orders/ShipConfig.svg",
       "action": "ShipConfig"
+    },
+     {
+      "label": "Create Return",
+      "icon": "assets/svg/icons/orders/CreateReturn.svg",
+      "action": "CreateReturn"
     },
     {
       "label": "Real Time History",
@@ -592,11 +593,6 @@
       "label": "Print Freight Invoice",
       "icon": "assets/svg/icons/orders/PrintFrtInv.svg",
       "action": "PrintFrtInv"
-    },
-    {
-      "label": "Init Workflow Trigger",
-      "icon": "assets/svg/icons/orders/Trigger.svg",
-      "action": "InitWorkFlowTrigger"
     },
     {
       "label": "Trans Trigger",

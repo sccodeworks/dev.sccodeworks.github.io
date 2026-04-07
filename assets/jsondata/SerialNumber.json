@@ -12,7 +12,27 @@
       "label": "Delete",
       "icon": "assets/svg/dropdownicons/delete.svg",
       "action": "deleteSerialnumbers"
-    }
+    },
+        {
+      "label": "Details",
+      "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
+      "action": "details"
+    },
+           {
+      "label": "Inquiry",
+      "icon": "assets/svg/icons/receivables/AdjustInquiry.svg",
+      "action": "inquirySerialnumbers"
+    },
+        {
+      "label": "Link to Trans",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "linktotransSerialnumbers"
+    },
+        {
+      "label": "Ucc Pallet",
+      "icon": "assets/svg/icons/tallys/PrintTallySheetsIcon.svg",
+      "action": "UccPallet"
+    }  
     
   ]
 }

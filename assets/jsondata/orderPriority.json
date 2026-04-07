@@ -27,6 +27,11 @@
       "label": "Email",
       "icon": "assets/svg/icons/orders/EmailNewOrder.svg",
       "action": "Email"
+    },
+    {
+      "label": "PickPrint",
+      "icon": "assets/svg/icons/orders/BillOfLoadingSynopsis.svg",
+      "action": "pickPrint"
     }
   ]
 }

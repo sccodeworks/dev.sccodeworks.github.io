@@ -27,6 +27,16 @@
       "label": "Event History",
       "icon": "assets/svg/icons/orders/EventHistory.svg",
       "action": "OrderEventHistory"
+    },
+    {
+      "label": "Delivery Appointment",
+      "icon": "assets/svg/icons/orders/DeliveryAppointment.svg",
+      "action": "DeliveryAppt"
+    },
+     {
+      "label": "Create Trigger",
+      "icon": "assets/svg/icons/orders/Trigger.svg",
+      "action": "Trigger"
     }
   ]
 }
