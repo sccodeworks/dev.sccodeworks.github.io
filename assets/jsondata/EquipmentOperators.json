@@ -12,7 +12,11 @@
       "label": "Delete",
       "icon": "assets/svg/dropdownicons/delete.svg",
       "action": "deleteEquipmentOperators"
+    },
+     {
+      "label": "Entity Attributes",
+      "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
+      "action": "EntityAttributes"
     }
- 
   ]
 }

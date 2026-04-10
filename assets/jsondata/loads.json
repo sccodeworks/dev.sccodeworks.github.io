@@ -79,6 +79,11 @@
       "label": "Overlay Bill",
       "icon": "assets/svg/icons/orders/PrintFrtInv.svg",
       "action": "OverlayBill"
+    },
+    {
+      "label": "Release Orders",
+      "icon": "assets/svg/icons/orders/PrintFrtInv.svg",
+      "action": "releaseOrders"
     }
 
 
