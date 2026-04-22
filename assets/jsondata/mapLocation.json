@@ -27,6 +27,18 @@
       "label": "Activity",
       "icon": "assets/svg/icons/tallys/MetricsInquiryIcon.svg",
       "action": "Activity"
+    },
+    {
+      "label": "Group Sequence",
+      "icon": "assets/svg/icons/tallys/MetricsInquiryIcon.svg",
+      "action": "GroupSequence"
+    },
+    {
+      "label": "Change Location",
+      "icon": "assets/svg/icons/Items/MaintainWarehouseOpsIcon.svg",
+      "action": "ChangeLocation"
     }
+
+    
   ]
 }

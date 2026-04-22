@@ -58,6 +58,11 @@
       "label": "Resolve Move Problem",
       "icon": "assets/svg/icons/orders/VerifyOrders.svg",
       "action": "resolveMoveProblem"
+    },
+        {
+      "label": "Split Move",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "splitMove"
     }
   ]
 }

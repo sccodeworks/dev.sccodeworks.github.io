@@ -17,6 +17,11 @@
       "label": "Doors",
       "icon": "assets/svg/sidebar-menu-icons/Doors.svg",
       "action": "doorForm"
+    },
+      {
+      "label": "Contacts",
+      "icon": "assets/svg/icons/storer/contacts.svg",
+      "action": "buildingContact"
     }
   ]
 }

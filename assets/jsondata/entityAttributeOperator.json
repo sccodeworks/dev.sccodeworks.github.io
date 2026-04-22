@@ -13,5 +13,6 @@
       "icon": "assets/svg/dropdownicons/delete.svg",
       "action": "deleteEntity"
     }
+
   ]
 }

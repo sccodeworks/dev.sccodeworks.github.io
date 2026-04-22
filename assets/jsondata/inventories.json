@@ -31,6 +31,32 @@
       "icon": "assets/svg/icons/inventories/bookDetails.svg",
       "action": "BookDetails"
     }
+    , {
+      "label": "Duplicate Srls",
+      "icon": "assets/svg/icons/inventories/bookDetails.svg",
+      "action": "DuplicateSrls"
+    }
+    , {
+      "label": "Reverse Post",
+      "icon": "assets/svg/icons/inventories/bookDetails.svg",
+      "action": "ReversePost"
+    }
+    , {
+      "label": "LP Book to Count",
+      "icon": "assets/svg/icons/inventories/bookDetails.svg",
+      "action": "InventoryBookToCountForm"
+    }
+    , {
+      "label": "Serial Variance",
+      "icon": "assets/svg/icons/inventories/bookDetails.svg",
+      "action": "SerialVariance"
+    }
+    , {
+      "label": "LP Details",
+      "icon": "assets/svg/icons/inventories/bookDetails.svg",
+      "action": "LpDetails"
+    }
+
 
   ]
 }

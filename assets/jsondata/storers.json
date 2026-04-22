@@ -114,7 +114,7 @@
       "action": "storerConsItem"
     },
     {
-      "label": "UCC Serial Control",
+      "label": "W/W Serial Control",
       "icon": "assets/svg/icons/storer/ucc-serial.svg",
       "action": "storerUccSerCtl"
     },
@@ -236,6 +236,35 @@
       "label": "Storer Putaway Scheme",
       "icon": "assets/svg/icons/storer/putaway.svg",
       "action": "storerPutawayScheme"
+    },
+     {
+      "label": "Verify Item Location",
+      "icon": "assets/svg/icons/Items/ItemStockInquiryIcon.svg",
+      "action": "VerifyItemLoc"
+    },
+     {
+      "label": "Verify Balance",
+      "icon": "assets/svg/icons/Items/Balance.svg",
+      "action": "VerifyBalance"
+    }, {
+      "label": "Verify Item Location",
+      "icon": "assets/svg/icons/Items/ItemStockInquiryIcon.svg",
+      "action": "VerifyItemLoc"
+    },
+     {
+      "label": "Delete Empty Location",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "DelEmptyLocation"
+    },
+    {
+      "label": "ReSequence Locater",
+      "icon": "assets/svg/icons/storer/ar-aging.svg",
+      "action": "ReSequenceLocater"
+    },
+   {
+      "label": "UCC Label Control",
+      "icon": "assets/svg/icons/storer/ucc-label.svg",
+      "action": "storerUccLabel"
     }
   ]
 }

@@ -32,7 +32,13 @@
       "label": "Ucc Pallet",
       "icon": "assets/svg/icons/tallys/PrintTallySheetsIcon.svg",
       "action": "UccPallet"
-    }  
+    }  ,
+           {
+      "label": "Attributes",
+      "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
+      "action": "attributesSerialnumbers"
+    }
+
     
   ]
 }
