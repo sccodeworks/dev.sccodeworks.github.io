@@ -17,6 +17,32 @@
       "label": "EDI Documents",
       "icon": "assets/svg/icons/tallys/TallyDetailsIcon.svg",
       "action": "EdiDocuments"
+    },
+     {
+      "label": "Consolidate",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "Consolidate"
+    },
+      {
+      "label": "Carrier Limits",
+      "icon": "assets/svg/icons/Items/MaintainItemIcon.svg",
+      "action": "Limits"
+    },
+    {
+      "label": "Entity Attributes",
+      "icon": "assets/svg/icons/storer/attributes.svg",
+      "action": "CarrierEntityAttributes"
+    }
+    ,
+    {
+      "label": "Bol Comments",
+      "icon": "assets/svg/icons/Items/comments.svg",
+      "action": "CarrierBolComments"
+    },
+     {
+      "label": "Carrier Contacts",
+      "icon": "assets/svg/icons/storer/contacts.svg",
+      "action": "CarrierContacts"
     }
   ]
 }

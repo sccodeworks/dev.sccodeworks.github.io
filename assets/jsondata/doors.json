@@ -12,6 +12,16 @@
       "label": "Delete",
       "icon": "assets/svg/dropdownicons/delete.svg",
       "action": "deleteDoors"
+    },
+    {
+      "label": "Doors Usage",
+      "icon": "assets/svg/icons/memorize.svg",
+      "action": "doorUsage"
+    },
+            {
+      "label": "Entity Attributes",
+      "icon": "assets/svg/icons/storer/attributes.svg",
+      "action": "doorAttributes"
     }
   ]
 

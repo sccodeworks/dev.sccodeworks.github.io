@@ -178,10 +178,15 @@
       "icon": "assets/svg/icons/storer/xref.svg",
       "action": "StorerXReference"
     },
+     {
+      "label": "Storer Daily Activity",
+      "icon": "assets/svg/icons/storer/daily-storage.svg",
+      "action": "StorersDailyActivity"
+    },
     {
       "label": "Account Status",
       "icon": "assets/svg/icons/storer/status.svg",
-      "action": "storerStatus"
+      "action": "StorerAccountStatusReport"
     },
 
     {
@@ -226,7 +231,11 @@
       "icon": "assets/svg/icons/storer/auto-rate.svg",
       "action": "storerAutoRate"
     },
-
+ {
+      "label": "Short Stock",
+      "icon": "assets/svg/icons/storer/export.svg",
+      "action": "ShortStock"
+    },
     {
       "label": "Daily Storage Inquiry",
       "icon": "assets/svg/icons/storer/daily-storage.svg",
@@ -247,9 +256,9 @@
       "icon": "assets/svg/icons/Items/Balance.svg",
       "action": "VerifyBalance"
     }, {
-      "label": "Verify Item Location",
+      "label": "Verify Full Allocation",
       "icon": "assets/svg/icons/Items/ItemStockInquiryIcon.svg",
-      "action": "VerifyItemLoc"
+      "action": "VryFullAllocationUpdate"
     },
      {
       "label": "Delete Empty Location",
@@ -265,6 +274,27 @@
       "label": "UCC Label Control",
       "icon": "assets/svg/icons/storer/ucc-label.svg",
       "action": "storerUccLabel"
+    }
+    ,
+   {
+      "label": "Verify Building",
+      "icon": "assets/svg/icons/Items/ItemStockInquiryIcon.svg",
+      "action": "VerifyBldg"
+    },
+    {
+      "label": "Verify Location",
+      "icon": "assets/svg/icons/Items/ItemStockInquiryIcon.svg",
+      "action": "VerifyLoc"
+    },
+    {
+      "label": "Purge Locater",
+      "icon": "assets/svg/icons/Items/ItemStockInquiryIcon.svg",
+      "action": "PurgeLocater"
+    },
+    {
+      "label": "Daily Staging Inquiry",
+      "icon": "assets/svg/icons/storer/daily-status.svg",
+      "action": "DailyStgInq"
     }
   ]
 }

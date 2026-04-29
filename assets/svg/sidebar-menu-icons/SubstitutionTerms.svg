@@ -1,0 +1,23 @@
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  
+  <!-- Document box -->
+  <rect x="4" y="3" width="16" height="18" rx="2" stroke="#84919A" stroke-width="1"/>
+
+  <!-- Document lines -->
+  <path d="M7 7H13" stroke="#84919A" stroke-width="1" stroke-linecap="round"/>
+  <path d="M7 10H13" stroke="#84919A" stroke-width="1" stroke-linecap="round"/>
+  <path d="M7 13H11" stroke="#84919A" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Swap arrows (top) -->
+  <path d="M14 7H18L16.5 5.5M18 7L16.5 8.5" stroke="#84919A" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Swap arrows (bottom) -->
+  <path d="M18 17H14L15.5 18.5M14 17L15.5 15.5" stroke="#84919A" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Center swap indicator -->
+  <circle cx="16" cy="12" r="1.5" fill="#84919A"/>
+
+  <!-- Small check mark (optional meaning: applied/valid) -->
+  <path d="M8.5 16L10 17.5L12.5 15" stroke="#84919A" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>

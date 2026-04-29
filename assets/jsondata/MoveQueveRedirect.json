@@ -4,7 +4,7 @@
   },
   "items": [
     {
-      "label": "Move Que Redirects Details",
+      "label": "Move Queue Redirects Details",
       "icon": "assets/svg/icons/orders/UpdateTotalIcon.svg",
       "action": "MovequeRedirectDetails"
     }]}

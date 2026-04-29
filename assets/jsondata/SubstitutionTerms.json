@@ -1,0 +1,18 @@
+{
+  "search": {
+    "placeholder": "Search by menu"
+  },
+  "items": [
+    {
+      "label": " Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "updateSubstitutionterms"
+    },
+     {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "deleteSubstitutionterms"
+    }
+  
+  ]
+}

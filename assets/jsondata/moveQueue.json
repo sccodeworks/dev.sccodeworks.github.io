@@ -63,6 +63,16 @@
       "label": "Split Move",
       "icon": "assets/svg/dropdownicons/edit.svg",
       "action": "splitMove"
+    },
+           {
+      "label": "Change Location",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "changeLocation"
+    },
+    {
+      "label": "Change Location All",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "changeLocationAll"
     }
   ]
 }

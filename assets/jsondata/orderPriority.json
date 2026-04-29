@@ -32,6 +32,11 @@
       "label": "PickPrint",
       "icon": "assets/svg/icons/orders/BillOfLoadingSynopsis.svg",
       "action": "pickPrint"
+    },
+      {
+      "label": "Prioritize",
+      "icon": "assets/svg/icons/orders/UpdateTotalIcon.svg",
+      "action": "Prioritize"
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "search": {
+    "placeholder": "Search by Contacts"
+  },
+  "items": [
+    {
+      "label": "Carrier Contact Edit",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "CarrierContactsUpdate"
+    },
+     {
+      "label": "Carrier Contact Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "CarrierContactsDelete"
+    }
+  
+  ]
+}

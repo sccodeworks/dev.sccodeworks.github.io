@@ -1,0 +1,23 @@
+{
+  "search": {
+    "placeholder": "Search by Contacts"
+  },
+  "items": [
+    {
+      "label": "Update",
+      "icon": "assets/svg/dropdownicons/edit.svg",
+      "action": "Update"
+    },
+     {
+      "label": "Delete",
+      "icon": "assets/svg/dropdownicons/delete.svg",
+      "action": "Delete"
+    },
+    {
+      "label": "Change Auto Rates",
+      "icon": "assets/svg/icons/storer/auto-rate.svg",
+      "action": "ChangeAutoRate"
+    }
+  
+  ]
+}
